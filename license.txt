@@ -1,0 +1,11 @@
+Model Information:
+* title:	Polycam Scan - Person Standing
+* source:	https://sketchfab.com/3d-models/polycam-scan-person-standing-5f2456952cc24bb0925710696d7319a0
+* author:	laurenjansen (https://sketchfab.com/laurenjansen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Polycam Scan - Person Standing" (https://sketchfab.com/3d-models/polycam-scan-person-standing-5f2456952cc24bb0925710696d7319a0) by laurenjansen (https://sketchfab.com/laurenjansen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
